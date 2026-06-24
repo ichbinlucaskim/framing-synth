@@ -1,0 +1,15 @@
+{
+  "panel": {
+    "schema_version": "0.1.0",
+    "id": "panel-solid-001",
+    "parent_wall": "wall-A",
+    "start": { "x": 0, "y": 0 },
+    "end": { "x": 3000, "y": 0 },
+    "length": 3000,
+    "height": 2438,
+    "openings": [],
+    "panel_type": "exterior",
+    "load_bearing": true
+  },
+  "openings": {}
+}

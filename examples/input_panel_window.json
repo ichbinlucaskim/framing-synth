@@ -1,0 +1,26 @@
+{
+  "panel": {
+    "schema_version": "0.1.0",
+    "id": "panel-window-001",
+    "parent_wall": "wall-B",
+    "start": { "x": 0, "y": 0 },
+    "end": { "x": 3000, "y": 0 },
+    "length": 3000,
+    "height": 2438,
+    "openings": ["window_0"],
+    "panel_type": "exterior",
+    "load_bearing": true
+  },
+  "openings": {
+    "window_0": {
+      "schema_version": "0.1.0",
+      "id": "window_0",
+      "type": "window",
+      "host_wall": "wall-B",
+      "position": 1500,
+      "width": 1200,
+      "height": 1200,
+      "swing_direction": "none"
+    }
+  }
+}

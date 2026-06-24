@@ -1,0 +1,17 @@
+{
+  "schema_version": "0.1.0",
+  "panel_id": "panel-window-001",
+  "items": [
+    {
+      "section": "2x4",
+      "count": 1,
+      "total_length_mm": 1200.0
+    },
+    {
+      "section": "2x6",
+      "count": 21,
+      "total_length_mm": 37258.0
+    }
+  ],
+  "sheathing_area_m2": 7.314
+}
